@@ -139,26 +139,20 @@ YOLO (You Only Look Once), görüntüyü bir grid'e böler ve her hücre için n
 
 ## 🗺️ Yol Haritası
 
-Bu proje, **DeepSport Athletic** tarzı spor analitik sistemlerin temel bileşenini oluşturmayı hedeflemektedir. Gelecek güncellemelerde:
+Gelecek güncellemeler:
 
 1. **ByteTrack** ile oyuncu ID takibi
 2. **Forma rengi** ile takım ayrımı
 3. **Heatmap** çıktısı
-4. **Streamlit** tabanlı web arayüzü
-5. F1 pit lane nesne tespiti (ikinci proje)
+4..?
+.
+.
+
 
 ---
 
 ## 🤝 Katkı
 
-Proje geliştirme aşamasında olduğundan katkı ve öneriler memnuniyetle karşılanır. Issue açabilir veya pull request gönderebilirsin.
+Proje geliştirme aşamasında olduğundan katkı ve öneriler memnuniyetle karşılanır. Issue açabilir veya pull request gönderebilirsiniz.
 
----
 
-## 📄 Lisans
-
-MIT License — Detaylar için `LICENSE` dosyasına bakınız.
-
----
-
-> **Not:** Bu proje bir öğrenme sürecinin parçasıdır. Yapay zeka ve spor analitik alanında geliştirilmekte olan bir portföy çalışmasıdır.
