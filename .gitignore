@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Model ağırlıkları (büyük dosyalar — GitHub'a yüklenmiyor)
+*.pt
+*.pth
+*.weights
+
+# Video dosyaları (büyük — GitHub'a yüklenmiyor)
+*.mp4
+*.avi
+*.mov
+*.webm
+
+# Çıktı klasörü
+output/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# YOLO çalışma dosyaları
+runs/
