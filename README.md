@@ -3,7 +3,6 @@
 > ⚠️ **Bu proje aktif geliştirme aşamasındadır.** Özellikler eksik olabilir, iyileştirmeler devam etmektedir.
 
 ---
-
 ## 🎯 Proje Nedir?
 
 Bu proje, bir futbol maçı videosunu girdi olarak alır ve YOLOv8 derin öğrenme modeli kullanarak:
