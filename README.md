@@ -85,7 +85,7 @@ python detect.py
 
 ---
 
-## 📁 Dosya Yapısı
+## 📁 DosyaYapısı
 
 ```
 football-ball-detection/
