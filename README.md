@@ -1,6 +1,6 @@
 # Futbol Topu & Oyuncu Tespiti — YOLOv8 ile
 
-> ⚠️ **Bu proje aktif geliştirme aşamasındadır.** Özellikler eksik olabilir, iyileştirmeler devam etmektedir.
+>  Bu proje aktif geliştirme aşamasındadır.
 
 ---
 ## 🎯 Proje Nedir?
